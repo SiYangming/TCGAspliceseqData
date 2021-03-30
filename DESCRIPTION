@@ -1,0 +1,13 @@
+Package: TCGAspliceseqData
+Type: Package
+Title: TCGA SpliceSeq Database R Package
+Version: 0.1.0
+Author: Yangming Si
+Maintainer: Yangming Si <siyangming1991@163.com>
+Description: TCGA SpliceSeq Database
+License: CC
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: `date()`; yangming
+LazyData: true
